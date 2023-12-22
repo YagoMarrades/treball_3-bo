@@ -5,6 +5,7 @@
   float:left;
   width:20%;
   text-align:center;
+  padding:40px;
 }
 .menu a {
   display: block;
@@ -32,14 +33,14 @@ a.active {
 }
 .main {
   float:left;
-  width:60%;
-  padding:0 20px;
+  width:55%;
+  padding:25px;
 }
 .right {
   background-color:#fff;
   float:left;
   width:20%;
-  padding:15px;
+  padding:13px;
   margin-top:7px;
   text-align:left;
   color:#555;
@@ -55,6 +56,6 @@ a.active {
 .foot  {
   display:flex;
   justify-content: center;
-  height: 3px;
-  background-color: black;
+  height: 2px;
+  background-color: rgb(107, 107, 107);
 }
